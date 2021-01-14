@@ -1,6 +1,6 @@
 # Course Assignment 3
 
-[![Build Status](https://travis-ci.com/nicklasanielsen/CA3-Backend.svg?token=zgehqy9DRGP96w5Nrecw&branch=master)](https://travis-ci.com/nicklasanielsen/CA3-Backend) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![Build Status](https://travis-ci.com/Haugaard-DK/Eksamen-Backend.svg?branch=master)](https://travis-ci.com/Haugaard-DK/Eksamen-Backend) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 ## Backend
 
