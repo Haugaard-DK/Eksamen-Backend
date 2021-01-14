@@ -1,5 +1,4 @@
 notifications:
-  slack: dat3-fall-2020:FD0Eo9xmcFuxzFmTAnpZco3x
   email: false
 
 dist: focal
